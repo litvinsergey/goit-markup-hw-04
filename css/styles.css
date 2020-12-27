@@ -391,14 +391,15 @@ address {
 .team-media-link {
   fill: #afb1b8;
 }
+.team-media {
+  width: 20px;
+  height: 20px;
+}
+
 .team-media-link:hover,
 .team-media-link:focus {
   background-color: var(--accent-color);
   fill: var(--white-text-color);
-}
-.team-media {
-  width: 20px;
-  height: 20px;
 }
 
 .team-content,
